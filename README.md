@@ -7,7 +7,7 @@
 <img src="https://github.com/amarmedmoctar/amarmedmoctar/blob/main/Amar-cover.jpeg" alt="Amar Cover" />
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarmedmoctar&label=Profile%20views&color=0e75b6&style=flat" alt="amarmedmoctar" /> </p>
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ my perfect day would start and end with a cup of coffee.
