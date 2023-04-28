@@ -7,10 +7,7 @@
 </h3>
 
 
-
-- 🏢 I'm a junior Frontend 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, or anything related to web development.
 - ⚡ my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
